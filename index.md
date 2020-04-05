@@ -5,7 +5,7 @@ My name is Stephen Pelkofer. I work on the Research & Development team for Sentr
 This is my personal page that includes my resume, contact information, learning resources, and personal projects that I've worked on either for school or for fun. Please don't hesitate to reach out to me.
 
 ### Content
-- Resume
+- [Resume] (https://spelk24.github.io/Resume)
 - Personal Projects
 - Learning Resources
 - Contact
