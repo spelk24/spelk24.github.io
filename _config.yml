@@ -2,6 +2,7 @@ theme: jekyll-theme-cayman
 title:            Stephen Pelkofer
 description:      'Personal Website, Blog, and Portfolio'
 
+# Author Info
 author:
   name      : "Stephen Pelkofer"
   location  : "Madison, WI"
@@ -10,3 +11,11 @@ author:
   linkedin  : "spelkofer"
   github    : "spelk24"
   
+ # _pages
+- scope:
+    path: ""
+    type: pages
+   values:
+    layout: single
+    author_profile: true
+
