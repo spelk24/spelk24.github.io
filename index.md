@@ -1,6 +1,8 @@
-## Welcome ot the homepage of Stephen Pelkofer!
+## Welcome to the homepage of Stephen Pelkofer!
 
-This is my personal website that includes my resume, contact information, learning resources, and personal projects.
+My name is Stephen Pelkofer. I work on the Research & Development team for Sentry Insurance, and I'm also completeing my M.S. in Analytics at the Georgia Institute of Technology. 
+
+This is my personal page that includes my resume, contact information, learning resources, and personal projects that I've worked on either for school or for fun. Please don't hesitate to reach out to me.
 
 ### Content
 - Resume
