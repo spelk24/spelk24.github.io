@@ -1,3 +1,7 @@
+layout: page
+title: "Resume"
+permalink: /Resume/
+
 # Stephen Pelkofer 
 Madison, WI | spelkofer24@yahoo.com | LinkedIn.com/in/spelkofer
 
