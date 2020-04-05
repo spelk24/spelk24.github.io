@@ -1,5 +1,12 @@
 theme: jekyll-theme-cayman
 title:            Stephen Pelkofer
 description:      'Personal Website, Blog, and Portfolio'
-twitter_username: spelk24
-email: spelkofer24@yahoo.com
+
+author:
+  name      : "Stephen Pelkofer"
+  location  : "Madison, WI"
+  twitter   : "spelk24"
+  email     : "spelkofer24@yahoo.com"
+  linkedin  : "spelkofer"
+  github    : "spelk24"
+  
