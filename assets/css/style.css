@@ -3,5 +3,11 @@
 
 @import "jekyll-theme-cayman";
 li {
-  display: inline;
+  float: left;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
 }
