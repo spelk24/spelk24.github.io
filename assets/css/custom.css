@@ -2,12 +2,3 @@
 ---
 
 @import "jekyll-theme-cayman";
-.nav_bar {
-  display: inline;
-}
-
-a {
-  display: block;
-  padding: 8px;
-  background-color: #dddddd;
-}
