@@ -2,8 +2,8 @@
 ---
 
 @import "jekyll-theme-cayman";
-li {
-  float: left;
+.nav_bar {
+  display: inline;
 }
 
 a {
