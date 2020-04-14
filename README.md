@@ -1,8 +1,9 @@
 # spelk24.github.io
 
-Personal Website for Stephen Pelkofer 
+Personal Website for Stephen Pelkofer: [spelk24.github.io](https://spelk24.github.io/)
 
 ## Content
-- Resume & contact information
-- Learning resources
-- Personal projects
+
+- Resume
+- Portfolio
+- Contact information
