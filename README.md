@@ -4,6 +4,7 @@ Personal Website for Stephen Pelkofer: [spelk24.github.io](https://spelk24.githu
 
 ## Content
 
+- Home
 - Resume
 - Portfolio
-- Contact information
+- Resources

@@ -1,4 +1,4 @@
-## Shiny Apps
+## Portfolio
 
 ### NBA Player Defensive Comparisons (4/12/2020)
 
@@ -6,9 +6,11 @@
 
 The appplication used a KNN model and t-SNE to visualize similar NBA players, but only considered defensive stats. The stats included normal box score stats, and shots defended by distance. All data was scraped from [stats.nba.com](https://stats.nba.com).
 
+**Built with:** R and Shiny
+
 [GitHub Repository](https://github.com/HyunTruth/CSE6242-S20-PRJ-NBA-frontend)
 
 [Live Application](https://spelkofer.shinyapps.io/DefensivePlayerComparisons/)
 
-[shotzone]: https://github.com/spelk24/spelk24.github.io/blob/master/png/ShotZone.png
-[tsne]: https://github.com/spelk24/spelk24.github.io/blob/master/png/tSNE.png
+![shotzone]: https://github.com/spelk24/spelk24.github.io/blob/master/png/ShotZone.png
+![tsne]: https://github.com/spelk24/spelk24.github.io/blob/master/png/tSNE.png
