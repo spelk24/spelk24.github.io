@@ -12,5 +12,5 @@ The appplication used a KNN model and t-SNE to visualize similar NBA players, bu
 
 [Live Application](https://spelkofer.shinyapps.io/DefensivePlayerComparisons/)
 
-![shotzone]: https://github.com/spelk24/spelk24.github.io/blob/master/png/ShotZone.png
-![tsne]: https://github.com/spelk24/spelk24.github.io/blob/master/png/tSNE.png
+![shotzone](https://github.com/spelk24/spelk24.github.io/blob/master/png/ShotZone.png)
+![tsne](https://github.com/spelk24/spelk24.github.io/blob/master/png/tSNE.png)
