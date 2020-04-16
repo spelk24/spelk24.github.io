@@ -55,7 +55,7 @@ Statistical Modeling & Regression Analysis, Database System Concepts & Design
 -	Statistical Modeling with Caret and e1071
 - Shiny
 
-##### SQL (2 years)
+##### SQL
 -	Teradata, Snowflake, sqlite3, and SQL Server
 
 ##### Git Version Control
