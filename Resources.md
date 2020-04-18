@@ -1,6 +1,6 @@
 ## Learning Resources
 
-Over the last few years, I've compiled books, vidoes, podcasts, repositories, and other types of learning resources that have been incredibly valuable for my data science education. I come back to some of these resources weekly or even daily. Separated by tool/topic, here are my favorite resources:
+Over the last few years, I've compiled books, videos, podcasts, repositories, and other types of learning resources that have been incredibly valuable for my data science education. I come back to some of these resources weekly or even daily. Separated by tool/topic, here are my favorite resources:
 
 ### Data Visualization
 
