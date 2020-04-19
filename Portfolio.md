@@ -1,5 +1,7 @@
 ## Portfolio
 
+<hr>
+
 ### Grad School Weekly Hours - CSE 6242 Data & Visual Analytics
 
 **Type:** Data Viz
@@ -11,8 +13,9 @@
 Here is what my Spring 2020 semester looked like - this is only strict pomodoro time, and does not include extra reading or supplemental material. When someone asks me why I only take 3 credits per semester on top of working full-time, this is what I'll show them.
 
 <img src="png\DVAWeeklyHours.png" width="500" height="390" />
+<hr>
 
-### NBA Player Defensive Comparisons (4/12/2020)
+### NBA Player Defensive Comparisons
 
 **Type:** Website/Application
 
