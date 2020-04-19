@@ -1,6 +1,6 @@
 # Stephen Pelkofer
 
-Madison, WI | spelkofer24@yahoo.com | [LinkedIn.com/in/spelkofer](LinkedIn.com/in/spelkofer)
+Madison, WI &#8226; spelkofer24@yahoo.com &#8226; [LinkedIn.com/in/spelkofer](LinkedIn.com/in/spelkofer)
 
 ## Education
 

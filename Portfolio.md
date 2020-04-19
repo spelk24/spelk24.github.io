@@ -1,8 +1,6 @@
-## Portfolio
+### Grad School Weekly Hours - CSE 6242 Data & Visual Analytics
 
 <hr>
-
-### Grad School Weekly Hours - CSE 6242 Data & Visual Analytics
 
 **Type:** Data Viz
 
@@ -13,9 +11,10 @@
 Here is what my Spring 2020 semester looked like - this is only strict pomodoro time, and does not include extra reading or supplemental material. When someone asks me why I only take 3 credits per semester on top of working full-time, this is what I'll show them.
 
 <img src="png\DVAWeeklyHours.png" width="500" height="390" />
-<hr>
 
 ### NBA Player Defensive Comparisons
+
+<hr>
 
 **Type:** Website/Application
 
@@ -31,3 +30,15 @@ The application used a KNN model and t-SNE to visualize similar NBA players, but
 
 <img src="png\ShotZone.png" width="300" height="250" />
 <img src="png\tSNE.png" width="300" height="250" />
+
+### Google Cloud & NCAA® ML Competition 2019-Men's
+
+<hr>
+
+**Description:** Annual Kaggle competition for the men's and women's basketball NCAA tournaments. This was my first time competing in a Kaggle competition - Out of the 866 teams, I placed 444 (52nd percentile). About 90% of my coding time was spent doing data-prep and figuring out what features I could use. I ended up using a Logistic Regression classifier. At the time, my machine learning background was not as strong, but I'm looking forward to competing in 2021 with an advanced skill-set.
+
+**Built With:** Python
+
+[GitHub Repository](https://github.com/spelk24/kaggle_NCAA_2019)
+
+[Competition Link](https://www.kaggle.com/c/mens-machine-learning-competition-2019)
