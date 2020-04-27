@@ -90,10 +90,14 @@
   height: 30px;
 }
 
+.sharebuttons .github svg {
+  fill: #525252;
+}
+
 .sharebuttons .twitter svg {
-  fill: #1da1f2;
+  fill: #525252;
 }
 
 .sharebuttons .linkedin svg {
-  fill: #0077b5;
+  fill: #525252;
 }
