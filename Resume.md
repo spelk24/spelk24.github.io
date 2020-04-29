@@ -34,16 +34,16 @@ Madison, WI &#8226; spelkofer24@yahoo.com &#8226; [LinkedIn.com/in/spelkofer](Li
 ##### Research & Development Product Specialist (10 months)
 
 - Completes mid- and long-term R&D projects to improve the personal lines insurance product
-- Created Policy Lifetime Expectancy model to analyze and track customer retention
-- Builds out Python and R scripts to automate workflows for report building
-- Developed Python Software Application to re-rate any book-of-business at any rate-level
-- Created text-clasification model of competitor news articles for competitve intelliegence dashboard
+- Policy Lifetime Expectancy & Retention modeling
+- Automate workflows with Python, R, and SQL scripts
+- Software Development with Python-Flask and R-Shiny
+- Text-Classification modeling
 
 ##### Market Specialist (1 year, 1 month)
 
 - Web Scraped external competitor and market data to store in tabular and useable format
-- Built Tableau Dashboards for the sales and product management teams
-- Performed ad-hoc and timely data analysis projects usig various tools such as SQL, Python, R, and Tableau
+- Tableau Dashboard developer for the Sales and Product Management teams
+- Performed ad-hoc and data analysis projects using tools such as SAS, Python, R, and Tableau
 
 #### Federal Deposit Insurance Corporation
 
@@ -66,6 +66,7 @@ Madison, WI &#8226; spelkofer24@yahoo.com &#8226; [LinkedIn.com/in/spelkofer](Li
 ##### Python
 
 - pandas, numpy, SciPy, SimPy, BeautifulSoup, Selenium
+- Software development with Flask
 - Building Scikit-learn pipelines
 
 ##### R

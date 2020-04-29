@@ -9,3 +9,5 @@ This is my personal page that includes my resume, contact information, learning 
 - [Resume](https://spelk24.github.io/Resume)
 - [Portfolio](https://spelk24.github.io/Portfolio)
 - [Resources](https://spelk24.github.io/Resources)
+
+Email: Spelkofer24@yahoo.com
