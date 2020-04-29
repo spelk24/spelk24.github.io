@@ -42,3 +42,23 @@ The application used a KNN model and t-SNE to visualize similar NBA players, but
 [GitHub Repository](https://github.com/spelk24/kaggle_NCAA_2019)
 
 [Competition Link](https://www.kaggle.com/c/mens-machine-learning-competition-2019)
+
+
+### FiveThirtyEight Web-Scraping
+
+<hr>
+
+**Type:** Web-Scraping demo and Data Viz
+
+**Description:** For an assignment in CSE 6242 - Computing for Data Analysis at Georgia Tech, we were tasked with scraping raw html from [fivethiryeight.com](fivethirtyeight.com). If you're not familar with fivethirtyeight, they are a Data Journalism reporting outlet for topics on politics, economics, sports, science, and culture. Almost all of their stories come with some sort of data analysis or visualization in the article.
+
+On the right side of their homepage, they have a Presidential Approval chart that is interactive and updated daily. Our task was to scrape the raw numbers within this chart (example below) for every single day. After that, I decided to try and recreate the visualization as best as I could using matplotlib in Python.
+
+For a more detailed analysis and tutorial, please check out the jupyter notebook in the GitHub repository linked below.
+
+**Built With:** Python
+
+[GitHub Repository](https://github.com/spelk24/FiveThirtyEight-Web-Scraping)
+
+<img src="png\fivethirtyeight_ex.png" width="300" height="250" />
+<img src="png\fivethirtyeight_matplotlib.png" width="300" height="250" />
