@@ -17,6 +17,7 @@ I'm a weekly (and sometimes daily) user of politifact. My beliefs and core value
 <summary>Read full post</summary>
 individual numbers could be off depending on when you're reading this.For this analysis, I stuck with comparing Donald Trump (Republican) to the most prominent Democratic voices and leaders (as shown in the graph below). It's important to note that the sample size differences are pretty large in some cases - for example, Barack Obama (Democrat) and Donald Trump have been fact-checked much more frequently than the others - this is largely because Presidents are generally in the spotlight more. In Trump's case, he makes a lot of statements that are possibly misleading, so he gets fact-checked more than anyone. The time period for the analysis is the entire time politifact.com has been around (since 2007).
 <br>
+<br>
 The graph below shows the percentage of fact checks that have proven to be *mostly false*, *false*, or a *pants-on-fire* lie. To no surprise, Donald Trump lies A LOT - 69% of his fact-checks result in at least *mostly false*. Nancy Pelosi and Joe Biden (both Democrats) also have had their fair share of lies. Elizabeth Warren (Democrat) has only been checked 34 times, but she ends up with the lowest percentage of the group (16%) - her and Bernie Sanders (Democrat) have never been caught in a *pants-on-fire* lie.
 
 I hope you enjoyed this quick analysis, and please always check out politifact for independent analysis of what our leaders are saying.
