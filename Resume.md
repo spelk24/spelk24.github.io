@@ -16,7 +16,6 @@ Madison, WI &#8226; spelkofer24@yahoo.com &#8226; [LinkedIn.com/in/spelkofer](Li
 #### University of Wisconsin – Stevens Point
 
 - B.S. Business Administration and Accounting
-- Relevant coursework: Micro and Macro Economics, Principles of Finance, Computer Information Systems
 - Team member and captain of the UW-Stevens Point National Champion Men’s basketball team 2013-2016
 - WIAC Max Sparger Men's Basketball Scholar-Athlete Award: [Article link](https://athletics.uwsp.edu/news/2016/3/4/mens-basketball-pelkofer-named-2016-max-sparger-scholar-athlete.aspx)
 
@@ -33,17 +32,18 @@ Madison, WI &#8226; spelkofer24@yahoo.com &#8226; [LinkedIn.com/in/spelkofer](Li
 
 ##### Research & Development Product Specialist (10 months)
 
-- Completes mid- and long-term R&D projects to improve the personal lines insurance product
-- Policy Lifetime Expectancy & Retention modeling
-- Automate workflows with Python, R, and SQL scripts
-- Software Development with Python-Flask and R-Shiny
-- Text-Classification modeling
+-	Completes long-term R&D projects to improve the personal lines insurance product
+-	Policy Lifetime Expectancy & Retention modeler
+-	Software development with Python-Flask and R-Shiny
+-	Text classification modeler
+-	Python, R, and SQL Subject Matter Expert for the R&D team
 
-##### Market Specialist (1 year, 1 month)
+##### Market Data Analyst (1 year, 1 month)
 
-- Web Scraped external competitor and market data to store in tabular and useable format
-- Tableau Dashboard developer for the Sales and Product Management teams
-- Performed ad-hoc and data analysis projects using tools such as SAS, Python, R, and Tableau
+-	Automated workflows with Python, R, and SQL scripts
+-	Web scraped external competitor and market data to store in tabular and useful format
+-	Tableau Dashboard developer for the Sales and Product Management teams
+-	Performed ad-hoc and data analysis projects using tools such as SAS, Python, R, and Tableau
 
 #### Federal Deposit Insurance Corporation
 
@@ -74,6 +74,11 @@ Madison, WI &#8226; spelkofer24@yahoo.com &#8226; [LinkedIn.com/in/spelkofer](Li
 - Data cleaning and prep in tidyverse packages
 - Statistical Modeling with Caret and e1071
 - Shiny
+
+#### Statistics & Machine Learning
+-	Math proofs of most well-known ML algorithms
+-	A/B testing and design of experiments
+-	Ability to explain complex topics to non-technical individuals
 
 ##### SQL
 
