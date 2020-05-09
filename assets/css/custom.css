@@ -4,18 +4,17 @@
 .page-header {
   color: #fff;
   text-align: center;
-  background-color: white;
-  background-image: linear-gradient(120deg,white,whitesmoke);
-  height: 150px;
+  background-color: #159957;
+  background-image: linear-gradient(120deg, #155799, #159957);
 }
 @media screen and (min-width: 64em) {
   .page-header {
-    padding: 4rem 3rem;
+    padding: 4rem 5rem;
   }
 }
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
-    padding: 3rem 2rem;
+    padding: 3rem 4rem;
   }
 }
 @media screen and (max-width: 42em) {
@@ -26,22 +25,21 @@
 
 .project-name {
   margin-top: 0;
-  margin-bottom: 0.2rem;
-  color: #252525;
+  margin-bottom: 0.1rem;
 }
 @media screen and (min-width: 64em) {
   .project-name {
-    font-size: 2.0rem;
+    font-size: 2.25rem;
   }
 }
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .project-name {
-    font-size: 1.55rem;
+    font-size: 1.75rem;
   }
 }
 @media screen and (max-width: 42em) {
   .project-name {
-    font-size: 1.15rem;
+    font-size: 1.25rem;
   }
 }
 
@@ -64,22 +62,6 @@
   .project-tagline {
     font-size: 1rem;
   }
-}
-
-/* Nav Bar Buttons */
-.btn {
-  border-radius: 4px;
-  background-color: whitesmoke;
-  color: #252525;
-  border: 2px solid #252525;
-}
-.btn {
-  transition-duration: 0.4s;
-}
-
-.btn:hover {
-  background-color: #d9d9d9; /* Green */
-  color: #252525;
 }
 
 /* Social Media */
@@ -105,10 +87,14 @@
   height: 30px;
 }
 
+.sharebuttons .github svg {
+  fill: #525252;
+}
+
 .sharebuttons .twitter svg {
-  fill: #1da1f2;
+  fill: #525252;
 }
 
 .sharebuttons .linkedin svg {
-  fill: #0077b5;
+  fill: #525252;
 }
