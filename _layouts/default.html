@@ -21,14 +21,20 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   <link rel="stylesheet" href="/assets/css/custom.css">
 </head>
-<header class="page-header" role="banner">
-  <a href="/index" class="website_header">Stephen Pelkofer</a>
-  <a href="/index" class="btn">Home</a>
-  <a href="/Resume" class="btn">Resume</a>
-  <a href="/Portfolio" class="btn">Portfolio</a>
-  <a href="/Resources" class="btn">Resources</a>
+
+<header class="header header--fixed headroom headroom--transition headroom--not-bottom headroom--pinned headroom--top"
+  role="banner">
+  <nav class="distill-site-nav distill-site-header">
+    <div class="nav-left">
+      <a href="./" class="title">Stephen Pelkofer</a>
+      <a href="/index" class="btn">Home</a>
+      <a href="/Resume" class="btn">Resume</a>
+      <a href="/Portfolio" class="btn">Portfolio</a>
+      <a href="/Resources" class="btn">Resources</a>
+    </div>
+    </div>
+  </nav>
 </header>
-<hr>
 <main id="content" class="main-content" role="main">
   {{ content }}
 
