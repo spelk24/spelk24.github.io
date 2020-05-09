@@ -1,6 +1,3 @@
----
----
-
 @import "jekyll-theme-cayman";
 
 /* Header */
@@ -13,17 +10,17 @@
 }
 @media screen and (min-width: 64em) {
   .page-header {
-    padding: 1rem 1rem;
+    padding: 4rem 3rem;
   }
 }
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
-    padding: .5rem .5rem;
+    padding: 3rem 2rem;
   }
 }
 @media screen and (max-width: 42em) {
   .page-header {
-    padding: .5rem .5rem;
+    padding: 2rem 1rem;
   }
 }
 
@@ -70,11 +67,25 @@
 }
 
 /* Nav Bar Buttons */
-.btn {
+.buttonHeader {
+  background-color: whitesmoke;
+  color: #252525;
+  font-size: 1.15rem;
+}
+
+.button {
   border-radius: 4px;
   background-color: whitesmoke;
   color: #252525;
   border: 2px solid #252525;
+}
+.button {
+  transition-duration: 0.4s;
+}
+
+.button:hover {
+  background-color: #d9d9d9; /* Green */
+  color: #252525;
 }
 
 /* Social Media */
@@ -106,107 +117,4 @@
 
 .sharebuttons .linkedin svg {
   fill: #0077b5;
-}
----
----
-
-@import "jekyll-theme-cayman";
-
-/* Header */
-.page-header {
-  color: #fff;
-  text-align: center;
-  background-color: #159957;
-  background-image: linear-gradient(120deg, #155799, #159957);
-}
-@media screen and (min-width: 64em) {
-  .page-header {
-    padding: 4rem 5rem;
-  }
-}
-@media screen and (min-width: 42em) and (max-width: 64em) {
-  .page-header {
-    padding: 3rem 4rem;
-  }
-}
-@media screen and (max-width: 42em) {
-  .page-header {
-    padding: 2rem 1rem;
-  }
-}
-
-.project-name {
-  margin-top: 0;
-  margin-bottom: 0.1rem;
-}
-@media screen and (min-width: 64em) {
-  .project-name {
-    font-size: 2.25rem;
-  }
-}
-@media screen and (min-width: 42em) and (max-width: 64em) {
-  .project-name {
-    font-size: 1.75rem;
-  }
-}
-@media screen and (max-width: 42em) {
-  .project-name {
-    font-size: 1.25rem;
-  }
-}
-
-.project-tagline {
-  margin-bottom: 1.75rem;
-  font-weight: normal;
-  opacity: 0.7;
-}
-@media screen and (min-width: 64em) {
-  .project-tagline {
-    font-size: 1.25rem;
-  }
-}
-@media screen and (min-width: 42em) and (max-width: 64em) {
-  .project-tagline {
-    font-size: 1.15rem;
-  }
-}
-@media screen and (max-width: 42em) {
-  .project-tagline {
-    font-size: 1rem;
-  }
-}
-
-/* Social Media */
-.sharebuttons {
-  margin: 0 auto 0 auto;
-}
-
-.sharebuttons ul {
-  margin: 20px 0 0 0;
-  text-align: center;
-}
-
-.sharebuttons ul li {
-  display: inline;
-}
-
-.sharebuttons ul li a {
-  text-decoration: none;
-}
-
-.sharebuttons ul li svg {
-  width: 30px;
-  height: 30px;
-}
-
-.sharebuttons .github svg {
-  fill: #525252;
-}
-
-.sharebuttons .twitter svg {
-  fill: #525252;
-}
-
-.sharebuttons .linkedin svg {
-  fill: #525252;
 }
