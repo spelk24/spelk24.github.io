@@ -172,7 +172,7 @@ gg_umap_plot <- ggplot(data = umap_plotting_data,aes(x = UMAP_X,
 gg_umap_plot
 ```
 
-![](BeerMeMethodology_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
+<img src="..\png\umap_scatter.png" width="600" height="450" />
 
 # Nearest Neighbors & Recommendations
 
