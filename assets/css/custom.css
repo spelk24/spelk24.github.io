@@ -2,10 +2,10 @@
 
 /* Header */
 .page-header {
-  color: #252525;
+  color: #fff;
   text-align: center;
-  background-color: #f0f0f0;
-  background-image: linear-gradient(120deg, #ffffff, #f0f0f0);
+  background-color: #159957;
+  background-image: linear-gradient(120deg, #155799, #159957);
 }
 @media screen and (min-width: 64em) {
   .page-header {
@@ -97,17 +97,4 @@
 
 .sharebuttons .linkedin svg {
   fill: #525252;
-}
-
-/* Headers */
-h1 {
-  color:  #252525;
-}
-
-h2 {
-  color:  #252525;
-}
-
-h3 {
-  color:  #252525;
 }
