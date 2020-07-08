@@ -110,3 +110,10 @@
     border-radius: 0.3rem;
     transition: color 0.2s, background-color 0.2s, border-color 0.2s;
 }
+
+.btn:hover {
+  color: #ffffff;
+  text-decoration: none;
+  background-color: #159957;
+  border-color: #ffffff;
+}
