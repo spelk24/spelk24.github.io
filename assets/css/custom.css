@@ -1,0 +1,99 @@
+@import "jekyll-theme-cayman";
+
+/* Header */
+.page-header {
+  color: #fff;
+  text-align: center;
+  background-color: #159957;
+  background-image: linear-gradient(120deg, #155799, #159957);
+}
+
+@media screen and (min-width: 64em) {
+  .page-header {
+    padding: 4rem 5rem;
+  }
+}
+@media screen and (min-width: 42em) and (max-width: 64em) {
+  .page-header {
+    padding: 3rem 4rem;
+  }
+}
+@media screen and (max-width: 42em) {
+  .page-header {
+    padding: 2rem 1rem;
+  }
+}
+.project-name {
+  margin-top: 0;
+  margin-bottom: 0.2rem;
+}
+@media screen and (min-width: 64em) {
+  .project-name {
+    font-size: 2.25rem;
+  }
+}
+@media screen and (min-width: 42em) and (max-width: 64em) {
+  .project-name {
+    font-size: 1.75rem;
+  }
+}
+@media screen and (max-width: 42em) {
+  .project-name {
+    font-size: 1.25rem;
+  }
+}
+.project-tagline {
+  margin-bottom: 1.75rem;
+  font-weight: normal;
+  opacity: 0.7;
+}
+@media screen and (min-width: 64em) {
+  .project-tagline {
+    font-size: 1.25rem;
+  }
+}
+@media screen and (min-width: 42em) and (max-width: 64em) {
+  .project-tagline {
+    font-size: 1.15rem;
+  }
+}
+@media screen and (max-width: 42em) {
+  .project-tagline {
+    font-size: 1rem;
+  }
+}
+
+/* Social Media */
+.sharebuttons {
+  margin: 0 auto 0 auto;
+}
+
+.sharebuttons ul {
+  margin: 20px 0 0 0;
+  text-align: center;
+}
+
+.sharebuttons ul li {
+  display: inline;
+}
+
+.sharebuttons ul li a {
+  text-decoration: none;
+}
+
+.sharebuttons ul li svg {
+  width: 30px;
+  height: 30px;
+}
+
+.sharebuttons .github svg {
+  fill: #525252;
+}
+
+.sharebuttons .twitter svg {
+  fill: #525252;
+}
+
+.sharebuttons .linkedin svg {
+  fill: #525252;
+}
