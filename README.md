@@ -1,6 +1,6 @@
 # spelk24.github.io
 
-Personal Website for Stephen Pelkofer: [spelk24.github.io](https://spelk24.github.io/)
+Personal Website for Stephen Pelkofer: [stephenpelkofer.com](https://stephenpelkofer.com)
 
 
 ## About Me
