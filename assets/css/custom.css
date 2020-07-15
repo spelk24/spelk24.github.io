@@ -120,9 +120,9 @@
 
 /* Cards */
 .card {
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.8);
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.8  );
   transition: 0.3s;
-  width: 30%;
+  width: 45%;
   border-radius: 5px;
   display: table-cell;
   float: left;
@@ -139,11 +139,18 @@ img {
 
 .container {
   padding: 2px 16px;
+  display: table-cell;
 }
 
 .Row {
   display: table;
   width: 100%; /*Optional*/
   table-layout: fixed; /*Optional*/
-  border-spacing: 10px; /*Optional*/
+}
+
+@media only screen and (max-width: 600px) {
+  .card {
+    display: block;
+    width: 95%;
+  }
 }
