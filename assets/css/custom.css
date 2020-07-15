@@ -120,14 +120,17 @@
 
 /* Cards */
 .card {
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.8);
   transition: 0.3s;
-  width: 40%;
+  width: 30%;
   border-radius: 5px;
+  display: table-cell;
+  float: left;
+  margin: 20px;
 }
 
 .card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
 }
 
 img {
@@ -136,4 +139,11 @@ img {
 
 .container {
   padding: 2px 16px;
+}
+
+.Row {
+  display: table;
+  width: 100%; /*Optional*/
+  table-layout: fixed; /*Optional*/
+  border-spacing: 10px; /*Optional*/
 }
