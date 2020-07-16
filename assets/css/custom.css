@@ -122,12 +122,12 @@
 .card {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.8  );
   transition: 0.3s;
-  width: 50%;
+  width: 45%;
   height: 100%;
   border-radius: 5px;
   display: table-cell;
   float: left;
-  margin: 20px;
+  margin: 15px;
 }
 
 .card:hover {
@@ -139,12 +139,12 @@ img {
 }
 
 .container {
-  padding: 2px 16px;
+  padding: 2  px 16px;
   display: table-cell;
 }
 
 .Row {
-  display: table;
+  display: flex;
   width: 100%; /*Optional*/
   table-layout: fixed; /*Optional*/
 }
