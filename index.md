@@ -34,3 +34,24 @@ See more projects in the [Portfolio](https://spelk24.github.io/Portfolio) sectio
     </a>
   </div>
 </div>
+<br>
+<div class="Row">
+  <div class="card">
+    <a href="/posts/PovertyRates">
+      <img src="..\png\hist.png" alt="Avatar" style="width:95%">
+      <div class="container">
+        <h4><b>Poverty Rates by Race in the US</b></h4> 
+        <p>Analyzing poverty rates by race in the US</p> 
+      </div>
+    </a>
+  </div>
+  <div class="card">
+    <a href="https://spelkofer.shinyapps.io/DefensivePlayerComparisons/">
+      <img src="..\png\ShotZone.png" alt="Avatar" style="width:95%">
+      <div class="container">
+        <h4><b>NBA Player Defensive Comparisons</b></h4> 
+        <p>Defensive player comparison analysis for current NBA players</p> 
+      </div>
+    </a>
+  </div>
+</div>

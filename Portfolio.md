@@ -1,6 +1,18 @@
 # Portfolio
 A collection of projects, school assignments, and competitions that I have worked on in the last 2-3 years. Project topics/themes include: Machine Learning, Data Viz, Web-Scraping, Website building, and more. 
 
+
+### Poverty Rates by Race in the US
+
+<hr>
+
+2020 has given me a lot more free-time than I'm used to. I've been trying to use that time for personal development, learning, and reading. The two best things I've done so far are (1) read [*The Color of Law by Richard Rothstein*](https://www.epi.org/publication/the-color-of-law-a-forgotten-history-of-how-our-government-segregated-america/) and (2) read [*Evicted by Matthew Desmond*](https://www.evictedbook.com/). Both books have been eye opening to the gruesome realities of the history of the United States. One was focused primarily on housing segregation, and the unethical actions that government officials took in the 20th century to ensure the separation and oppression of black people. The other book is about real poverty in America; specifically in Milwaukee, WI. The author documents the lives of poor families that struggle to survive in a broken system, where most decisions are made out of desperation to keep a roof over their head... <a href="/posts/PovertyRates">read full post here</a>
+
+[GitHub Repository](https://github.com/spelk24/US-Poverty-Rates)
+
+<br>
+<img src="png\hist.png" width="600" height="450" />
+
 ### Beer Me - A Beer Recommender System
 
 <hr>
