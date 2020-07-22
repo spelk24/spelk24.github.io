@@ -14,7 +14,7 @@ See more projects in the [Portfolio](https://spelk24.github.io/Portfolio) sectio
       <img src="..\png\umap_scatter.png" alt="Avatar" style="width:95%">
       <div class="container">
         <h4><b>Beer Me</b></h4> 
-        <p>A recommender system that uses knn and UMAP to give you some new beers to try out</p> 
+        <p>A recommender system that uses clustering and UMAP to recommend new beers to try out</p> 
       </div>
     </a>
   </div>
@@ -35,7 +35,7 @@ See more projects in the [Portfolio](https://spelk24.github.io/Portfolio) sectio
       <img src="..\png\hist.png" alt="Avatar" style="width:95%">
       <div class="container">
         <h4><b>Poverty Rates by Race in the US</b></h4> 
-        <p>Analyzing poverty rates by race in the US</p> 
+        <p>Visually analyzing poverty rates by race in the US with US Census data</p> 
       </div>
     </a>
   </div>
