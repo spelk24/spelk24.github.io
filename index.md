@@ -1,8 +1,8 @@
 ## About Me
 <hr>
-My name is Stephen Pelkofer. I work on the Analytics team for Sentry Insurance, and I'm also completing my M.S. in Computational Data Analytics at the Georgia Institute of Technology.
+My name is Stephen Pelkofer. I work on the Analytics team for Sentry Insurance, and I'm also completing my M.S. in Computational Data Analytics at the Georgia Institute of Technology with an anticipated graduation semester of Spring 2021. In Fall 2020, as part of my coursework, I will be interning on the Data Science & Solutions team for the Oklahoma City Thunder.
 
-This is my personal page that includes my contact information, learning resources that I've used, and personal projects that I've worked on either for school or for fun. Most of my content is focused on machine learning and data visualization of datasets that I find interesting (sports, economics, politics, social justice, etc.). If you have any interesting datasets or problems, please send them my way!
+This is my personal page that includes my contact information, learning resources that I've used, and projects that I've worked on either for school or for fun. Most of my content is focused on machine learning and data visualization of datasets that I find interesting (sports, economics, politics, social justice, etc.). If you have any interesting datasets or want to collaborate on a project, don't hesitate to reach out.
 
 ## Recent Projects
 
