@@ -1,12 +1,13 @@
 ## About Me
 <hr>
-My name is Stephen Pelkofer. I work on the Analytics team for Sentry Insurance, and I'm also completing my M.S. in Computational Data Analytics at the Georgia Institute of Technology with an anticipated graduation semester of Spring 2021. In Fall 2020, as part of my graduate coursework, I am interning on the Data Science & Solutions team for the Oklahoma City Thunder.
+
+My name is Stephen Pelkofer. I am a Basketball Research Analyst at [SportsInfoSolutions](https://www.sportsinfosolutions.com/) and I'm also completing my M.S. in Analytics at the Georgia Institute of Technology with a graduation date of April 2021. My prior experience includes interning on the Data Science & Solutions team for the Oklahoma City Thunder and working in Advanced Analytics at Sentry Insurance.
 
 This is my personal page that includes my contact information, learning resources that I've used, and projects that I've worked on either for school or for fun. Most of my content is focused on machine learning and data visualization of datasets that I find interesting (sports, economics, politics, social justice, etc.). If you have any interesting datasets or want to collaborate on a project, don't hesitate to reach out.
 
 ## Recent Projects
 
-See more projects in the [Portfolio](https://spelk24.github.io/Portfolio) section.
+See more projects in the [Portfolio](https://stephenpelkofer.com/Portfolio) section.
 
 <div class="Row">
   <div class="card">
