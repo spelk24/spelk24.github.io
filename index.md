@@ -1,7 +1,7 @@
 ## About Me
 <hr>
 
-My name is Stephen Pelkofer. I am a Basketball Research Analyst at [SportsInfoSolutions](https://www.sportsinfosolutions.com/) and I'm also completing my M.S. in Analytics at the Georgia Institute of Technology with a graduation date of April 2021. My prior experience includes interning on the Data Science & Solutions team for the Oklahoma City Thunder and working in Advanced Analytics at Sentry Insurance.
+My name is Stephen Pelkofer. I am a Basketball Research Analyst at [Sports Info Solutions](https://www.sportsinfosolutions.com/) and I'm also completing my M.S. in Analytics at the Georgia Institute of Technology with a graduation date of April 2021. My prior experience includes interning on the Data Science & Solutions team for the Oklahoma City Thunder and working in Advanced Analytics at Sentry Insurance.
 
 This is my personal page that includes my contact information, learning resources that I've used, and projects that I've worked on either for school or for fun. Most of my content is focused on machine learning and data visualization of datasets that I find interesting (sports, economics, politics, social justice, etc.). If you have any interesting datasets or want to collaborate on a project, don't hesitate to reach out.
 
